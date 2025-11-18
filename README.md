@@ -62,7 +62,7 @@ This project implements a 4-bit parallel adder using Verilog HDL. It performs bi
 
 ---
 
-##  **(Optional) FPGA Pin Assignment**
+# FPGA Pin Assignment**
 Only required if the design is to be implemented on hardware.
 
 - Go to **Assignments → Pin Planner**
